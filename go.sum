@@ -1,0 +1,6 @@
+github.com/arafath-mk/gcstyle v0.1.0 h1:gvCv4Lvb1gajIv5zA/hCl1Dnkjsf4IkSu5BeckFyBEY=
+github.com/arafath-mk/gcstyle v0.1.0/go.mod h1:7nEh3PIMCCQ1PjKVqTZ2toIlHsVjjLRopn3UHD2EPq0=
+github.com/mattn/go-isatty v0.0.17 h1:BTarxUcIeDqL27Mc+vyvdWYSL28zpIhv3RoTdsLMPng=
+github.com/mattn/go-isatty v0.0.17/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
+golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab h1:2QkjZIsXupsJbJIdSjjUOgWK3aEtzyuh2mPt3l/CkeU=
+golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
