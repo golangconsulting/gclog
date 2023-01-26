@@ -1,4 +1,4 @@
-module gclog
+module github.com/arafath-mk/gclog
 
 go 1.19
 
